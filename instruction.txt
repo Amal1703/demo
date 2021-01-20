@@ -12,4 +12,6 @@ git add .
 git commit -m "modifying"
 git push origin master
 10) git clone https://github.com/Amal1703/demo (enregistre du site au bureau)
-11)
+11)git branch (jewab *master)
+12) changer branch: git checkout -b newbranch
+13) git branch (* newbranch)
