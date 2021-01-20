@@ -1,0 +1,5 @@
+1) Git bush here (bouton droit)
+2) git init (Crée un dépôt Git vide ou réinitialise un dépôt existant)
+3) bich in3arfhoum ib ro7i (ena ili nista3mil fil git):
+git config --global user.name "Amal Kammoun"
+4)orbot git bil site github: git remote add origin https://github.com/Amal1703/demo
