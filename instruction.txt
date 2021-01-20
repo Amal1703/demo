@@ -15,3 +15,4 @@ git push origin master
 11)git branch (jewab *master)
 12) changer branch: git checkout -b newbranch
 13) git branch (* newbranch)
+14) git push origin newbranch
