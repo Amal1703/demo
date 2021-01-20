@@ -4,5 +4,10 @@
 git config --global user.name "Amal Kammoun"
 4)orbot git bil site github: git remote add origin https://github.com/Amal1703/demo
 5)git add .
-6)git commit -m "inital commit"
+6)git commit -m "inital commit" (lezim 9balah git add .)
 7) git log
+8) git push origin master ( push doosier ili inti ti5dim fih fi gethub wa les fichier mawjoudin fi master intial commit)
+9) j'ai modifier un fichier:
+git add .
+git commit -m "modifying"
+git push origin master
