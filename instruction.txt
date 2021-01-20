@@ -12,3 +12,4 @@ git add .
 git commit -m "modifying"
 git push origin master
 10) git clone https://github.com/Amal1703/demo (enregistre du site au bureau)
+11)
